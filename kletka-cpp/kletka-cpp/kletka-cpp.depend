@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1575626513 source:/disk2/home/adom/c-cpp/kletka-cpp/kletka-cpp/main.cpp
+	<string.h>
+	<stdio.h>
+	<locale.h>
+	"include/kletka.h"
+
+1575626248 /disk2/home/adom/c-cpp/kletka-cpp/kletka-cpp/include/kletka.h
+	<iostream>
+	"structs.h"
+
+1575626299 /disk2/home/adom/c-cpp/kletka-cpp/kletka-cpp/include/structs.h
+
